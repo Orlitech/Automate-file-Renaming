@@ -8,3 +8,4 @@ Right-click the file and change the name from "Title" to your own TITLE Name or 
 Save the changes, and BOOM 🚀
 From here on out, every time you run this magical BAT file, all the files in the folder will automatically be renamed based on your custom naming scheme.
 It’s like having a wizard in your computer that handles your file renaming! No more manual renaming—just a seamless experience. 🎩💻
+!(Screenshort)[https://github.com/Orlitech/Automate-file-Renaming/blob/main/Screenshot%202025-02-22%20110333.png]
